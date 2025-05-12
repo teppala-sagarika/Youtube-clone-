@@ -1,4 +1,5 @@
 🎥 YouTube Frontend Clone
+
 This project is a frontend clone of YouTube, built to demonstrate my frontend skills using HTML,CSS and JS.
 
 📌 Features
@@ -9,6 +10,7 @@ This project is a frontend clone of YouTube, built to demonstrate my frontend sk
 🧭 Sidebar navigation (toggleable)
 
 🛠️ Technologies Used
+
 HTML5 – Structure
 
 CSS3 – Styling
