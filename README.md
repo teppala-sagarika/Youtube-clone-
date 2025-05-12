@@ -24,3 +24,6 @@ JavaScript – Interactivity
 
 🧑‍💻 About Me
 I’m currently a BTech CSE student passionate about frontend development. This project is part of my learning journey and showcases my ability to replicate real-world platforms.
+
+You can access my work through this link: (DEPLOYMENT LINK)
+youtube-clone-done.netlify.app
