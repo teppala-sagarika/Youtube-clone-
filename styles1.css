@@ -137,10 +137,10 @@ li:hover i {
     cursor: pointer;
     color: white;
     height: 40px;
-    width: 50px;
+    width: 70px;
 }
 
-.circle {
+.mic {
     height: 40px;
     width: 40px;
     border-radius: 50%;
@@ -149,4 +149,31 @@ li:hover i {
     align-items: center;
     justify-content: center;
     margin-left: 10px;
+}
+
+.create {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 180px;
+}
+
+.create button {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background-color: #323232;
+    color: #ccc;
+    padding: 8px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    height: 40px;
+}
+
+.create button:hover {
+    background-color: #4d4848;
 }
